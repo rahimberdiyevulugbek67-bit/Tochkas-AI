@@ -1,0 +1,10 @@
+{
+  "name": "Tochkas AI",
+  "description": "Многофункциональная AI-платформа: умный чат, генератор видео и изображений, YouTube-студия, голосовой ассистент и инструменты поисковой оптимизации.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
